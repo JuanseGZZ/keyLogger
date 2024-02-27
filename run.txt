@@ -1,0 +1,2 @@
+To compilate the code run this command in cmd, the cmd needs run in the code path.
+g++ -o keylogger.exe keylogger.cpp -luser32
